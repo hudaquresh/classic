@@ -1,6 +1,0 @@
-2017-06-13 19:20:57,522 pyclaw.fileio INFO CLAW: 344 - Read in solution for time t=2.5
-2017-06-13 19:20:57,533 pyclaw.fileio INFO CLAW: 344 - Read in solution for time t=5.0
-2017-06-13 19:21:03,062 pyclaw.fileio INFO CLAW: 344 - Read in solution for time t=0.5
-2017-06-13 19:21:03,214 pyclaw.fileio INFO CLAW: 344 - Read in solution for time t=1.0
-2017-06-13 19:21:05,855 pyclaw.fileio INFO CLAW: 344 - Read in solution for time t=0.25
-2017-06-13 19:21:05,878 pyclaw.fileio INFO CLAW: 344 - Read in solution for time t=0.5
